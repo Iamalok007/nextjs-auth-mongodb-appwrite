@@ -67,6 +67,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Project Link
 
-For any questions or feedback, feel free to reach out or open an issue on GitHub.
+You can access the deployed project at: [https://nextjs-auth-mongodb-appwrite.vercel.app/login](https://nextjs-auth-mongodb-appwrite.vercel.app/login)
+
